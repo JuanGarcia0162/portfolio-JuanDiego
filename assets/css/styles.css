@@ -883,7 +883,7 @@ img{
 
 /*==================== MEDIA QUERIES ====================*/
 /* For small devices */
-@media screen and (max-width: 350px){
+@media screen and (max-width: 415px){
     .container{
         margin-left: var(--mb-1);
         margin-right: var(--mb-1);
@@ -898,7 +898,7 @@ img{
         grid-template-columns: .25fr 3fr;
     }
     .home__blob{
-        width: 180px;
+        width: 170px;
     }
     .qualification__data{
         gap: .5rem;
@@ -1006,7 +1006,7 @@ img{
         column-gap: 2rem;
     }
     .home__blob{
-        width: 330px;
+        width: 300px;
     }
     .home__scroll{
         display: block;
